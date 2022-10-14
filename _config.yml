@@ -2,7 +2,7 @@ remote_theme: pages-themes/hacker
 plugins:
 - jekyll-remote-theme
 
-title: Minimal JS Image Classifiers
+title: Example Website for Amanda and Joels Cool Project
 description: Some basic examples of client interfaces to a computer vision API
 
 author:
